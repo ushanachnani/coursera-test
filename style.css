@@ -21,26 +21,29 @@ h4 {
     right: 0px;
 }
 p {
-    color: #4cae4c;
+    color: black;
     padding: 50px 17px 10px 17px;
 }
 .backgroud-1 {
-    background-color: #0081ff;
+    background-color: rgb(250, 150, 150);
+    color: black;
 }
 .backgroud-2 {
-    background-color: #00ff4b;
+    background-color: red;
+    color: white;
 }
 .backgroud-3 {
-    background-color: #ff0062;
-    color: #ffffff;
+    background-color: beige;
+    color: black;
 }
 .p-section {
-    height: 400px;
-    background-color: #3e2723;
+    height: 450px;
+    width: 90%;
+    background-color: #999999;
     border: 1px solid black;
     margin-bottom: 30px;
     position:relative;
-  top:30px;
+    top:30px;
   left:30%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     
